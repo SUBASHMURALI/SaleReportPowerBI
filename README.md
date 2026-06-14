@@ -51,10 +51,6 @@ The dataset contains sales transaction data including:
 
 Developed a user-friendly and interactive dashboard that transforms raw sales data into meaningful business insights, helping stakeholders monitor performance and make informed decisions.
 
-## 📸 Dashboard Preview
-
-(Add dashboard screenshots here)
-
 ## 👤 Author
 
 **Subash**
