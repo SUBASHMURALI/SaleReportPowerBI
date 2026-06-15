@@ -26,7 +26,6 @@ The Sales Report Dashboard is an interactive Power BI project developed to analy
 * Regional Sales Analysis
 * Product Performance Tracking
 * Customer Segment Analysis
-* Interactive Filters and Slicers
 * Trend Analysis Visualizations
 * Business Performance Insights
 
@@ -53,4 +52,4 @@ Developed a user-friendly and interactive dashboard that transforms raw sales da
 
 ## 👤 Author
 
-**Subash**
+**Subash Murali**
